@@ -1,0 +1,35 @@
+* What's this:
+
+It's Firefox search plugins for Arch Linux users.
+
+This repository include three add-on:
+
+1. Arch Linux Package Database Search
+file   : archlinux-package_database.xml
+release: https://addons.mozilla.org/ja/firefox/addon/archlinux-packa
+engine : https://www.archlinux.org/packages/
+
+2. Arch Linux AUR Search
+file   : archlinux-AUR.xml
+release: https://addons.mozilla.org/ja/firefox/addon/archlinux-aur/
+engine : https://aur.archlinux.org/
+
+3. Arch Linux Wiki Search
+file   : archlinux-wiki.xml
+release: https://addons.mozilla.org/ja/firefox/addon/archlinux-wiki/
+engine : https://wiki.archlinux.org/
+
+You can search these Arch Linux resources to quickly and easily with firefox if you want.
+
+* licence:
+
+MIT/X11 License
+http://www.opensource.org/licenses/mit-license
+
+* Contacts:
+usagi@WonderRabbitProject.net
+http://www.WonderRabbitProject.net/
+
+* Copyright:
+(C) 2012 Usagi Ito @ Wonder Rabbit Project.
+
